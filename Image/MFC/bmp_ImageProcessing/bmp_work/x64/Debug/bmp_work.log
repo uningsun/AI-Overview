@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  bmp_work.cpp
+  bmp_workDoc.cpp
+c:\users\affinity\source\repos\bmp_work\bmp_work\bmp_workdoc.cpp(146): warning C4101: 'height' :참조되지 않은 지역 변수입니다.
+c:\users\affinity\source\repos\bmp_work\bmp_work\bmp_workdoc.cpp(147): warning C4101: 'width' :참조되지 않은 지역 변수입니다.
+  bmp_workView.cpp
+  ChildFrm.cpp
+  MainFrm.cpp
+  코드를 생성하고 있습니다...
+  bmp_work.vcxproj -> C:\Users\Affinity\source\repos\bmp_work\x64\Debug\bmp_work.exe

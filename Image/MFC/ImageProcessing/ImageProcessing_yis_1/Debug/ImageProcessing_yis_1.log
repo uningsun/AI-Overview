@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  BitPlaneDlg.cpp
+  ChildFrm.cpp
+  ConstantDlg.cpp
+  DownSampleDlg.cpp
+  ImageProcessing_yis_1.cpp
+  ImageProcessing_yis_1Doc.cpp
+c:\users\affinity\source\repos\imageprocessing_yis_1\imageprocessing_yis_1\imageprocessing_yis_1doc.cpp(261): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  ImageProcessing_yis_1View.cpp
+  MainFrm.cpp
+  QuantizationDlg.cpp
+  StressTransformDlg.cpp
+  UpSampleDlg.cpp
+  코드를 생성하고 있습니다...
+  ImageProcessing_yis_1.vcxproj -> C:\Users\Affinity\source\repos\ImageProcessing_yis_1\Debug\ImageProcessing_yis_1.exe
